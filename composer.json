@@ -5,6 +5,7 @@
     "homepage": "https://github.com/lucky0817/yii2-wechat",
     "type": "yii2-extension",
     "license": "BSD 3-Clause",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "omgzg.com",
