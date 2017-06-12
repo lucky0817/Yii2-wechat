@@ -2,7 +2,7 @@
     "name": "lucky0817/yii2-wechat",
     "description": "Yii2 wechat sdk by yourself",
     "keywords": ["Yii2", "wechat", "SDK", "diy"],
-    "homepage": "https://github.com/lucky0817/Yii2-wechat",
+    "homepage": "https://github.com/lucky0817/yii2-wechat",
     "type": "yii2-extension",
     "license": "BSD 3-Clause",
     "authors": [
