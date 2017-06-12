@@ -1,0 +1,22 @@
+{
+    "name": "lucky0817/yii2-wechat",
+    "description": "Yii2 wechat sdk by yourself",
+    "keywords": ["Yii2", "wechat", "SDK", "diy"],
+    "homepage": "https://github.com/lucky0817/Yii2-wechat",
+    "type": "yii2-extension",
+    "license": "BSD 3-Clause",
+    "authors": [
+        {
+            "name": "omgzg.com",
+            "email": "lucky@omgzg.com",
+            "homepage": "http://www.omgzg.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+    "autoload": {
+	"psr-4": {
+		"wechat\\yii-wechat\\": ""
+	}
+     }
+}
